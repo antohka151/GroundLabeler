@@ -7,7 +7,7 @@ It's a tool to label body key points that are touching the ground.
 
 - Clone this repo
 ```buildoutcfg
-git clone git@github.com:aibodygym/GroundLabeler
+git clone https://github.com/antohka151/GroundLabeler.git
 cd GroundLabeler
 ```
 - Create and activate a virtual environment to work in, e.g. using Conda
@@ -15,7 +15,6 @@ cd GroundLabeler
 conda create -n GroundLabeler python=3.10
 conda activate GroundLabeler
 ```
-```mkdir libs```
 - Download tensorflow.
 - Install the requirements with pip
 ```buildoutcfg
